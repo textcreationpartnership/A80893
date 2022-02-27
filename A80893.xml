@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Lieutenant-Generall Cromwel concerning the Kings Majesty, and the citizens of London, and his protestation for peace, and re-inthroning of the King: together with his propositions to the army, and their resolution thereupon. Likewise three letters from the said Lieutenant Generall, to the Kings Majesty, the Prince of Wales, and the trayned bands of the city of London: and his demands to all those who are enemies to the King, and the peace of the kingdom. Signed O. Cromwell.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80893</idno>
+            <idno type="STC">Wing C7063</idno>
+            <idno type="STC">Thomason E472_20</idno>
+            <idno type="STC">ESTC R205804</idno>
+            <idno type="EEBO-CITATION">99865068</idno>
+            <idno type="PROQUEST">99865068</idno>
+            <idno type="VID">117303</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117303)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E472[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Lieutenant-Generall Cromwel concerning the Kings Majesty, and the citizens of London, and his protestation for peace, and re-inthroning of the King: together with his propositions to the army, and their resolution thereupon. Likewise three letters from the said Lieutenant Generall, to the Kings Majesty, the Prince of Wales, and the trayned bands of the city of London: and his demands to all those who are enemies to the King, and the peace of the kingdom. Signed O. Cromwell.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Printed in the year of joy, Novemb. 17. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117303:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of Lieutenant-Generall CROMWEL <hi>CONCERNING</hi> The Kings Majeſty, and the Citizens of <hi>London,</hi> and his <hi>Pre<g ref="char:EOLhyphen"/>teſtation</hi> for peace, and re-inthroning of the <hi>King:</hi> To<g ref="char:EOLhyphen"/>gether with his Propoſitions to the Army, and their reſolution thereupon.</p>
+            <p>Likewiſe three Letters from the ſaid Lieutenant Generall, to the Kings Majeſty, the Prince of <hi>Wales,</hi> and the Tray<g ref="char:EOLhyphen"/>ned Bands of the City of <hi>London:</hi> and his De<g ref="char:EOLhyphen"/>mands to all thoſe who are enemies to the King, and the peace of the <hi>Kingdom.</hi>
+            </p>
+            <p>Signed O. CROMWELL.</p>
+            <figure>
+               <figDesc>depiction of a man on horseback</figDesc>
+            </figure>
+            <p>Printed in the Year of joy, Novemb. 17. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration_and_reply">
+            <pb n="1" facs="tcp:117303:2"/>
+            <head>THE DECLARATION Of Lieutenant-Generall CROMWEL CONCERNING The Kings Majeſty, and the Citizens of <hi>London,</hi> and his Proteſtation touching the Prince of VVALES.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honorable,</salute>
+                  </opener>
+                  <p>LIeutenant Generall <hi>Crumwell,</hi> and divers other Officers of the Army, upon a Generall councel held the 11. of this inſtant November, debated
+<pb n="2" facs="tcp:117303:3"/>the Propoſals of the Army, in reference to the Reſent<g ref="char:EOLhyphen"/>m nts, touching the King and his Repreſentments; and after ſome diſpute in an Argumentary way, they una<g ref="char:EOLhyphen"/>nimouſly declared their reſolutions to adhere there<g ref="char:EOLhyphen"/>unto, and to live and dye, and ſtand and fall with the Army in the South, for preſervation of the Rights and Liberties of the Free-born people of <hi>England,</hi> and the eſtabliſhing of the Laws of the Land, and confirming of certain Rules for the execution thereof between the people and their Repreſentatives.</p>
+                  <p>And upon the cloſe of their conſultations, the Lieu<g ref="char:EOLhyphen"/>tenant Generall further demonſtrated, that he thought it requiſite, that all poſſible meanes ſhould be uſed for the faciliating and obtaining a ſpeedy grant and condeſcenſion to the Deſires of the Army, both from King and Parliament; and that a Letter be drawn up, and expedited to his Majeſty, to deſire his Gracious condeſcenſions to the Deſires of his two Houſes, for the ſetling of a ſafe and well-grounded peace; as alſo preſſing his Majeſty to take the Covenant, and to ſigne the Propoſitions.</p>
+                  <p>Theſe Propoſals were with much alacrity and a<g ref="char:EOLhyphen"/>mity embraced, and a Letter is ſaid to be forthwith drawn up, to be preſented to his Majeſty, together with a Declaration and Repreſentation in behalfe of the Army.</p>
+                  <p>The Lieutenant Gen. hath declared his reſolution to the Governour of Pontefract, and hath ſent this en<g ref="char:EOLhyphen"/>ſuing Meſſage (or Summons) for the ſurrender there<g ref="char:EOLhyphen"/>of, <hi>viz.</hi>
+                  </p>
+                  <p>Sir, Being come hither for the reduction of this place, I thought fit to ſummon you, to deliver your
+<pb n="3" facs="tcp:117303:3"/>Garriſon to me for the uſe of the Parliament: thoſe Gentlemen and Souldiers with you may have better termes, then if you ſhould hold it to extremity, I ex<g ref="char:EOLhyphen"/>pect a ſpeedy anſwer, and reſt Yours &amp;c.</p>
+                  <closer>
+                     <signed>O. CROMWEL.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>But notwithſtanding the ſaid Demands, the Kings party hath returned a very peremptory anſwer, and are reſolved to oppoſe us.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>Pontefract <date>14. Novemb. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>By Letters from the Iſle of <hi>Wight</hi> it is advertized, That his Majeſty hath ſent a Letter to Gen. <hi>Fairfax,</hi> in<g ref="char:EOLhyphen"/>timating, His earneſt deſires for peace, requiring his Excellency, and the Councell of the Army to be in<g ref="char:EOLhyphen"/>ſtrumenall therein, promiſing upon his Royall Word to ſatisfie all things by them deſired, and to enact and make proclamation thereupon, throughout all Cities, Counties, and Market townes, within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+                  </p>
+                  <p>And it is further demonſtrated, that his Majeſty hath promiſed on his Royall Word to grant power to His two Houſes (by an <hi>Act</hi>) to nominate Officers of State for 20 years. As alſo to grant an <hi>Act</hi> to confirme the leſſer Catechiſm, (agreed upon by both Houſes) to be read and publiſhed in all Churches throughout the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales..</hi>
+                  </p>
+               </body>
+            </floatingText>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:117303:4"/>
+            <head>The Armies Repreſentation.</head>
+            <opener>
+               <salute>Gentlemen, and Fellow-Commoners,</salute>
+            </opener>
+            <p>VVHereas there are many falſe ſugge<g ref="char:EOLhyphen"/>ſtions and evill aſperſions caſt upon the <hi>Army,</hi> by the inſolent and corru<g ref="char:EOLhyphen"/>pted Spirits of the adverſe party, and their Abettors, and whoſe hearts are ſtill inflamed, againſt all thoſe who countenance or embrace our Cauſe, as is plainly evidenced by their late Deſignes throughout the City and Kingdom, and their ſpreading of the black and diſ<g ref="char:EOLhyphen"/>mall Cloud throughout all the corners of the Nation, for the making of the Army odious to the ſight and judgment of all men; as alſo their preſent drawing of the Curtain, to make vent and way for the uttering of their falſe and abominable caluminations againſt us, in ſaying that our counſels and conſultations tends to nothing elſe, but the utter ſubverſion of all Kingly and Monarchical Government, and that our endeavours are for the obſtructing of the <hi>Treaty,</hi> and ruling the King<g ref="char:EOLhyphen"/>dom by the power of the Sword.</p>
+            <p>Therefore, for vindication of the <hi>Army</hi> from theſe unparaleld calumniations, we do demonſtrate and de<g ref="char:EOLhyphen"/>clare, that our hearts are free from the leaſt thought or action for the ſubverſion of Authority or Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Proteſting to live and dye in the true maintenance and preſervation of the ſame.</p>
+            <p>And as we have heretofore demonſtrated our great and earneſt deſires for peace, ſo we do again declare, that nothing ſhall be wanting in Us, for the promoting of the ſaid happy and bleſſed work; and that notwith<g ref="char:EOLhyphen"/>ſtanding all aſperſions whatſoever) we ſhall uſe our
+<pb n="5" facs="tcp:117303:4"/>utmoſt endeavours for the accompliſhing of a true &amp; laſting peace, which wce have ſo dearly bought by the price, and ranſome, of ſo many thouſand innocent and precious ſoules, who have ſacrificed their lives in theſe eight yeers wars.</p>
+            <p>And as for the preſent Treaty in hand between the <hi>King</hi> and <hi>Parliament,</hi> we do declare that we ſhall not obſtruct the ſame, nor meddle therein; provided, that we may be aſſured of ſecurity for the future, our ar<g ref="char:EOLhyphen"/>rears paid, the great burthen of the Kingdom removed and taken off, Religion ſetled, and the Subject freed from all tyranny and oppreſſion either from Prince or Repreſentatives.</p>
+            <p>Theſe things being enacted, and confirmed to all fu<g ref="char:EOLhyphen"/>ture Generations, we do unanimouſly declare, that none ſhall be more willing to enjoy that which we have ſo dearly purchaſed then our ſelves; and that we ſhall en<g ref="char:EOLhyphen"/>deavour the re-inthroning of our Soveraign, the cal<g ref="char:EOLhyphen"/>ling home the Prince and the Duke of <hi>Yorke,</hi> and the compoſing of all other differences, in Church and State.</p>
+            <closer>Signed by divers Agents of the Army, in the Name of themſelves, and all the free-born people of <hi>England,</hi> and commanded to be forthwith prin<g ref="char:EOLhyphen"/>ted and publiſhed.
+</closer>
+            <postscript>
+               <p>This day divers of the Officers of the Army met at the <hi>Bull-head,</hi> where they debated many excellent things tending to peace; and upon the cloſe of their conſultations declared their moſt pious and unanimus reſolutions for peace, referring the further reſults thereof till <hi>Thurſday.</hi>
+               </p>
+               <closer>
+                  <dateline>St. Albans <date>16 Novemb. 1648.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:117303:5"/>
+            <p>Sir, We hear that Lieutenant Generall <hi>Cromwell</hi> hath ſent a Letter to the Prince of <hi>Wales,</hi> dehorting his Highneſſe to come in to the Parliament, and to medi<g ref="char:EOLhyphen"/>ate with his Royall Father for a ſpeedy union and compliance with his two Houſes, &amp;c.</p>
+            <p>The Lieutenant Generall hath further declared, that he will leave no meanes unaſſayed, for the com<g ref="char:EOLhyphen"/>poſing of all differences betweene the King and peo<g ref="char:EOLhyphen"/>ple; and for the better effecting thereof, hath ſent a Meſſage to the Citizens of London, purporting his ear<g ref="char:EOLhyphen"/>neſt Deſires for peace, and re-inthroning of the King, and that future proviſion be made for the people of England, to preſerve them from tyranny and oppreſſi<g ref="char:EOLhyphen"/>on, requiring them to be inſtrumentall therein, which Letter is ſaid to be ſigned</p>
+            <closer>
+               <signed>O. CROMWELL.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
